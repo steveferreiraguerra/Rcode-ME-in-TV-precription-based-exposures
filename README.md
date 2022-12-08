@@ -1,5 +1,5 @@
 # Rcode-ME-in-TV-precription-based-exposures
-R code to recreate the simulation in the paper "Impact of measurement error in time-varying prescription-based exposures on estimated hazard ratios from the Cox model" (in preparation for submission in Pharmacoepidemiology and Drug Safety)
+R code to recreate the simulation in the paper "Impact of measurement error in time-varying prescription-based exposures on estimated hazard ratios from the Cox model" (in preparation for submission in Pharmacoepidemiology and Drug Safety). The code is based on the CNODES Simulated Dataset (https://www.cnodes.ca/simulated-data-set/).
 
 The way the code is structured is that one first creates the amlodipine cohort, from which individuals will be resampled in the simulation, using 
 "Amlodipine cohort.R".
